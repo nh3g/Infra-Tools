@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+joindomainBot/__init__.py
+joindomainBot/__main__.py
+joindomainBot/bot.py
+joindomainBot.egg-info/PKG-INFO
+joindomainBot.egg-info/SOURCES.txt
+joindomainBot.egg-info/dependency_links.txt
+joindomainBot.egg-info/requires.txt
+joindomainBot.egg-info/top_level.txt
+joindomainBot/resources/Windows.png
+joindomainBot/resources/start.png
